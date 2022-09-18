@@ -1,4 +1,4 @@
-<h2 align="left">Projeto desenvolvido no evento NlwSports da RocketSeat</h2>
+<h2 align="left">Projeto desenvolvido no evento NlweSports da RocketSeat</h2>
 
 ###
 
